@@ -8,6 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Публикация проекта в GitHub" HorizontalAlignment="Center" Margin="0,139,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Content="Кнопка" HorizontalAlignment="Center" Margin="0,254,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <CheckBox Content="Чекбокс" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"/>
 
     </Grid>
 </Window>
